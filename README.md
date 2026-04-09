@@ -27,6 +27,10 @@ Key areas covered include:
 -Educational background
 -Features
 
+## Dashboard Preview
+
+![Power BI Dashboard](dashboard.png)
+
 **Interactive Visualizations:** Filter and drill down by geography, job roles, and skills.
 
 **Comparative Analysis:** Explore trends across experience levels, salary brackets, and tools used.
